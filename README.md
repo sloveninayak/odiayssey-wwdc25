@@ -10,14 +10,6 @@ Odiayssey is an interactive Swift Playgrounds app that takes users on a journey 
 - 🎨 **Gradient-themed UI** inspired by Odisha’s vibrant colors
 - 📱 Designed for **Swift Playgrounds on iPad**
 
-## Tech Stack
-- **SwiftUI**
-
-## Tools
-- **AVFoundation**
-- **Swift Playgrounds**
-- **Procreate**
-
 ## How It Works
 Upon launching, users are greeted with background flute music and a visually rich welcome screen. Through **navigation links**, users explore key aspects of Odisha's culture, with each screen offering unique visuals and interactive elements.
 
@@ -28,7 +20,13 @@ This app was developed as a submission to the **Apple Swift Student Challenge 20
 ![Beige Elegant and Simple Ipad Facebook Post (1)](https://github.com/user-attachments/assets/b59f77b3-373f-4f3e-b14c-7e69f9a5d2de)
 ![Beige Elegant and Simple Ipad Facebook Post (2)](https://github.com/user-attachments/assets/4ffa800d-7dda-4926-9d5d-d2ca39b401e1)
 
+## Tech Stack
+- **SwiftUI**
 
+## Tools
+- **AVFoundation**
+- **Swift Playgrounds**
+- **Procreate**
 
 ## License
 This project is for educational purposes and submitted as part of the Apple Swift Student Challenge.
