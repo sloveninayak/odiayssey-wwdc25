@@ -11,10 +11,12 @@ Odiayssey is an interactive Swift Playgrounds app that takes users on a journey 
 - 📱 Designed for **Swift Playgrounds on iPad**
 
 ## Tech Stack
-- **Swift**
 - **SwiftUI**
+
+## Tools
 - **AVFoundation**
 - **Swift Playgrounds**
+- **Procreate**
 
 ## How It Works
 Upon launching, users are greeted with background flute music and a visually rich welcome screen. Through **navigation links**, users explore key aspects of Odisha's culture, with each screen offering unique visuals and interactive elements.
